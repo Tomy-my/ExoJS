@@ -1,8 +1,8 @@
 //Je pense qu'il sera affiché... 
-console.log(4 + 5);
+console.log(4 + 5);  // Addition entre 4 +5 
 
 //Je pense qu'il sera affiché...
-console.log("4" + 5);
+console.log("4" + 5);  // Affiche le nombre 4 et ensuite concatene le nombre 5
 
 //Je pense qu'il sera affiché...
-console.log("4 + 5");
+console.log("4 + 5"); // Affiche le nombre 4 et ensuite 5 cote à cote
