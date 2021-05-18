@@ -3,3 +3,4 @@ let tableau = ["lundi", "mardi", "mercredi", "jeudi", "vendredi", "samedi", "dim
 let tailleTableau;
 
 //Code à faire ici
+console.log(tableau.length);
