@@ -1,0 +1,40 @@
+body{
+  background-image: url("img/background.png");
+  background-position: center;
+  background-size: 100%;
+  background-repeat: no-repeat;
+}
+
+#gameContainer {
+  width: 800px;
+  height: 800px;
+  margin: 0 auto;
+  background-image: url("img/fond.png");
+  background-size: 100%;
+  background-position: center;
+  position: relative;
+  overflow: hidden;
+}
+
+#house{
+  position: absolute;
+
+  width: 60px;
+  height: 60px;
+
+  background-image: url("img/maison.png");
+  background-size: 100%;
+  background-position: center;
+
+  z-index: 2;
+}
+
+#player {
+  width: 40px;
+  height: 40px;
+  background-image: url("img/face.png");
+  background-size: 100%;
+  background-position: center;
+  position: absolute;
+  z-index: 2;
+}
