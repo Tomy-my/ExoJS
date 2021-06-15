@@ -1,5 +1,5 @@
 const player = document.getElementById('player');
-const moveSize = 24;
+const moveSize = 5;
 var playerWalk = 0;
 document.addEventListener('keydown', function (event) {
 
