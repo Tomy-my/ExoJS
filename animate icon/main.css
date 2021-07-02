@@ -1,10 +1,12 @@
 body {
+  display: flex;
+  flex-direction: column;
   background-color: rgb(37, 37, 37);
 }
 
 .icon {
   font-size: 80px;
-  padding: 100px;
+  padding: 50px;
   color: rgb(241, 241, 241);
 }
 
