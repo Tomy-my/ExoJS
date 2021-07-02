@@ -4,8 +4,6 @@ let buttonAutumn = document.querySelector(".btn_autumn");
 let buttonSpring = document.querySelector(".btn_spring");
 let buttonWinter= document.querySelector(".btn_winter");
 
-
-
 //summer
 let summer1 = document.querySelector(".filterDivSummer1");
 let summer2 = document.querySelector(".filterDivSummer2");
